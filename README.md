@@ -15,4 +15,12 @@
 
 # Articles
 
+#Related libs
+
+[Pytest for Django](https://pytest-django.readthedocs.io/en/latest/)
+
+[Mock](https://pypi.python.org/pypi/pytest-mock)
+
 # Code samples and pro
+
+
